@@ -10,7 +10,7 @@
 | ZSDemoの使い方     | [Youtube](https://www.youtube.com/watch?v=SpthDtwNBvs)                                                                                                                                        |
 | サンプルコード     | [Git-Hub](https://github.com/ZebraDevs/Electronic_Temperature_Sensors-ZSDemo)                                                                                                                 |
 | ソリューション概要 | [Youtube](https://github.com/ZebraDevs/Electronic_Temperature_Sensors-ZSDemo)                                                                                                                 |
-| ドキュメント類 | []https://www.zebra.com/jp/ja/support-downloads/environmental-sensors/electronic-temperature-sensors-data-device-monitoring-tools/zs300-sensors.html#Tab-item-023c8005df-tab |
+| ドキュメント類     | []https://www.zebra.com/jp/ja/support-downloads/environmental-sensors/electronic-temperature-sensors-data-device-monitoring-tools/zs300-sensors.html#Tab-item-023c8005df-tab               |
 
 <br />
 
@@ -62,16 +62,17 @@ ZS300の主機能、動作、使用感を理解することを目的として開
 4. [Create Task]でZS300に対して必要な設定をする。
 
    ##### 例
+
    インターバル15秒で6℃以上の状態が5分間継続した場合にエラーイベントを検知する設定
 
+
    <img width="200" src="image/demo-guide/1723105227650.png">    <img width="200" src="image/demo-guide/1723105414533.png">
+5. 正常にタスクが登録されたことを確認する。
 
-1. 正常にタスクが登録されたことを確認する。
+   <img width="200" src="image/demo-guide/1723105641992.png">
+6. 設定内容・アラート通知・温度履歴などを参照。
 
-    <img width="200" src="image/demo-guide/1723105641992.png">
-
-1. 設定内容・アラート通知・温度履歴などを参照。
-    <img width="200" src="image/demo-guide/1723106040853.png"> <img width="200" src="image/demo-guide/1723106074584.png"> <img width="200" src="image/demo-guide/1723106250597.png"> <img width="200" src="image/demo-guide/1723106266348.png">
+<img width="200" src="image/demo-guide/1723106040853.png""> <img width="200" src="image/demo-guide/1723106074584.png"> <img width="200" src="image/demo-guide/1723106250597.png""> <img width="200" src="image/demo-guide/1723106266348.png"">
 
 ※ その他、色々な機能があるので、確認すること。
 
