@@ -72,7 +72,7 @@ ZS300の主機能、動作、使用感を理解することを目的として開
    <img width="200" src="image/demo-guide/1723105641992.png">
 6. 設定内容・アラート通知・温度履歴などを参照。
 
-<img width="200" src="image/demo-guide/1723106040853.png""> <img width="200" src="image/demo-guide/1723106074584.png"> <img width="200" src="image/demo-guide/1723106250597.png""> <img width="200" src="image/demo-guide/1723106266348.png"">
+<img width="200" src="image/demo-guide/1723106040853.png"> <img width="200" src="image/demo-guide/1723106074584.png"> <img width="200" src="image/demo-guide/1723106250597.png"> <img width="200" src="image/demo-guide/1723106266348.png">
 
 ※ その他、色々な機能があるので、確認すること。
 
