@@ -10,7 +10,7 @@
 | ZSDemoの使い方     | [Youtube](https://www.youtube.com/watch?v=SpthDtwNBvs)                                                                                                                                        |
 | サンプルコード     | [Git-Hub](https://github.com/ZebraDevs/Electronic_Temperature_Sensors-ZSDemo)                                                                                                                 |
 | ソリューション概要 | [Youtube](https://github.com/ZebraDevs/Electronic_Temperature_Sensors-ZSDemo)                                                                                                                 |
-| ドキュメント類     | []https://www.zebra.com/jp/ja/support-downloads/environmental-sensors/electronic-temperature-sensors-data-device-monitoring-tools/zs300-sensors.html#Tab-item-023c8005df-tab               |
+| ドキュメント類     | [Zebra ZS300 Support - Documentation](https://www.zebra.com/jp/ja/support-downloads/environmental-sensors/electronic-temperature-sensors-data-device-monitoring-tools/zs300-sensors.html#Tab-item-023c8005df-tab)               |
 
 <br />
 
